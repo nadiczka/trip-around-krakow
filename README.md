@@ -1,12 +1,12 @@
 # Trip around Krakow
 
-### The project uses genetic algorithm to find the best road of a trip around Krakow.
-
+## The project uses genetic algorithm to find the best road of a trip around Krakow.
+#### Project has been created during studies for "Mathematical Methods of Decision Support" on University of Science and Technologies in Krakow.
 
 ## Technical description
 _________________
 
-Project has been created during studies for "Mathematical Methods of Decision Support".
+As above project has been created during studies.
 It does not contain the best programming practices and requires some improvements.
 
 The project has been written mainly with Python langauge. 
